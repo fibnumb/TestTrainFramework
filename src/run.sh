@@ -1,8 +1,8 @@
 #!/bin/bash
 
 export TRAIN_TESTDATA="/tmp/traintest"
-export ALIROOT_VERSION_SHORT='v5-08-18-1'
-export ALIPHYSICS_VERSION_SHORT='vAN-20161019-1'
+export ALIROOT_VERSION_SHORT='v5-09-23a-1'
+export ALIPHYSICS_VERSION_SHORT='vAN-20180308-1'
 export TRAIN_STEER=/alice/legotrain/trainbackend/train-steer-docker
 
 if [ ! -e "env.sh" ]
